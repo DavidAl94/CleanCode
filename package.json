@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "solid",
   "private": true,
@@ -15,3 +16,22 @@
     "yarn": "^1.22.22"
   }
 }
+=======
+{
+  "name": "solid",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
+}
+>>>>>>> ffc5548b022bab7e777d865bdce4ec4ed3d9acea
